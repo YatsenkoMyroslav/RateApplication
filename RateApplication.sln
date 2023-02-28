@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateApplication", "RateApplication.csproj", "{373141F7-CEF5-46B8-A5CA-5DB0EE26B6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373141F7-CEF5-46B8-A5CA-5DB0EE26B6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373141F7-CEF5-46B8-A5CA-5DB0EE26B6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373141F7-CEF5-46B8-A5CA-5DB0EE26B6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373141F7-CEF5-46B8-A5CA-5DB0EE26B6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
